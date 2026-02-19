@@ -1,0 +1,56 @@
+Need to install the following packages:
+tree-node-cli@1.6.0
+Ok to proceed? (y) 
+qa-app
+├── README.md
+├── eslint.config.js
+├── firebase-debug.log
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── public
+│   └── vite.svg
+├── src
+│   ├── App.css
+│   ├── App.jsx
+│   ├── assets
+│   │   └── react.svg
+│   ├── components
+│   │   ├── AdminDashboard.jsx
+│   │   ├── ComplaintView.jsx
+│   │   ├── DataEntryForm.jsx
+│   │   ├── DataEntrylogic.js
+│   │   ├── FactoryAdminView.jsx
+│   │   ├── FactoryDashboard.jsx
+│   │   ├── Login.jsx
+│   │   ├── LogsLogic.js
+│   │   ├── LogsView.jsx
+│   │   ├── ReturnsView.jsx
+│   │   ├── admin
+│   │   │   ├── ProductSettings.jsx
+│   │   │   └── RejectionSettings.jsx
+│   │   └── analysis
+│   │       ├── AnalysisCharts.jsx
+│   │       ├── AnalysisChartsLogic.js
+│   │       ├── MonthlyComparison.jsx
+│   │       └── charts
+│   │           ├── DailyTrendChart.jsx
+│   │           ├── KPICards.jsx
+│   │           ├── MainSourceChart.jsx
+│   │           ├── SpecificDefectsChart.jsx
+│   │           └── TopProductsChart.jsx
+│   ├── context
+│   │   ├── AuthContext.jsx
+│   │   └── ThemeContext.jsx
+│   ├── index.css
+│   ├── lib
+│   │   └── utils.js
+│   ├── main.jsx
+│   ├── services
+│   │   ├── db.js
+│   │   └── firebaseConfig.js
+│   └── types.js
+├── structure.txt
+├── tailwind.config.js
+└── vite.config.js
